@@ -1,0 +1,19 @@
+# GCC 8.2 on Windows Embedded Compact 2013
+
+## Background
+
+## How'to
+
+### Docker
+
+### Building bintuils
+
+### Building gcc
+
+#### Changing the thumbs
+
+#### Hack the PE header?
+
+### Compile for WEC2013
+
+## Profit
